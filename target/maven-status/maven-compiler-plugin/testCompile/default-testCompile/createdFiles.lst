@@ -1,0 +1,7 @@
+test\com\ms\data\TransactionTest.class
+test\com\ms\util\AESTest.class
+test\com\ms\data\ACTPrivateKeyTest.class
+test\com\ms\util\RPCTest.class
+test\com\ms\util\CityHashTest.class
+test\com\ms\util\ECCTest.class
+test\com\ms\data\WithdrawConditionTest.class
